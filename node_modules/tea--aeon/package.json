@@ -1,0 +1,22 @@
+{
+  "name": "tea--aeon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeon-life/tea--aeon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeon-life/tea--aeon/issues"
+  },
+  "homepage": "https://github.com/aeon-life/tea--aeon#readme",
+  "dependencies": {
+    "signineth-binance": "^1.0.6"
+  }
+}
